@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alexander20ima@gmail.com**
 
-- ⚡ Fun fact **Orcas can't wrap their Christmas gift ( they don't have arms ))**
+- ⚡ Fun fact **Orcas can't wrap their Christmas gift ( they don't have arms )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
