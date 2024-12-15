@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alexander Araujo</h1>
-<h3 align="center">I am a Software engineer passionate about the full development process of a software.</h3>
+<h3 align="center">I am a Software engineer :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandermendivil&label=Profile%20views&color=0e75b6&style=flat" alt="alexandermendivil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandermendivil" alt="alexandermendivil" /></a> </p>
 
-- 🌱 I’m currently learning Godot **Smashing udemy and youtube courses!**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AlexanderMendivil](https://github.com/AlexanderMendivil)
+- 🌱 I’m currently learning Rust **Just for fun**
 
 - 📫 How to reach me **alexander20ima@gmail.com**
 
-- ⚡ Fun fact **Orcas can't wrap their Christmas gift ( they don't have arms )**
+- ⚡ Fun fact **Orcas can't wrap their Christmas gifts ( they don't have arms )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
